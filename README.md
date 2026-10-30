@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Robert 👋
 
-<!--
-**RMLaumeyer/RMLaumeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Stevens Institute of Technology (May 2027), interested in
+machine learning, quantitative research, and systems programming.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Quantitative research tools in Python for dividend and overnight strategies
+- Local LLM workflows and edge AI on an NVIDIA Jetson Orin NX
+- Panel, a reading catalog app of nearly 4,000 editions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **[FUSE File System](link)**: user-space file system in C
+- **[Panel](link)**: catalog app with a local-LLM extraction pipeline
+- **[Rebrickable Checklist](link)**: offline LEGO parts tracker
+
+## Tech
+Python · C · C++ · Java · SQL · PyTorch · scikit-learn · Linux
+
+## Contact
+[LinkedIn](https://linkedin.com/in/robert-laumeyer) · [personal email]
