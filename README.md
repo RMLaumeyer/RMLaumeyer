@@ -17,4 +17,4 @@ machine learning, quantitative research, and systems programming.
 Python · C · C++ · Java · SQL · PyTorch · scikit-learn · Linux
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/robert-laumeyer) · [personal email]
+[LinkedIn](https://linkedin.com/in/robert-laumeyer)
