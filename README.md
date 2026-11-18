@@ -16,7 +16,7 @@ User-space file system written in C using FUSE, featuring inode
 management, directory operations, hard links, symbolic links,
 access control, and Python tests.
 
-### Panel — Reading Catalog
+### [Panel — Reading Catalog](https://github.com/RMLaumeyer/Reading)
 Reading catalog covering nearly 4,000 editions, with Python
 metadata enrichment pipelines and local LLM-powered validation.
 
