@@ -1,20 +1,41 @@
+
 # Hi, I'm Robert 👋
 
-CS student at Stevens Institute of Technology (May 2027), interested in
-machine learning, quantitative research, and systems programming.
+I'm a Computer Science student at Stevens Institute of Technology,
+graduating May 2027, with interests in software engineering,
+systems programming, machine learning, and quantitative research.
 
-## What I'm working on
-- Quantitative research tools in Python for dividend and overnight strategies
-- Local LLM workflows and edge AI on an NVIDIA Jetson Orin NX
-- Panel, a reading catalog app of nearly 4,000 editions
+I've worked on production healthcare automation, quantitative
+trading research, and projects involving file systems, local LLMs,
+and data pipelines.
 
-## Featured projects
-- **[FUSE File System](link)**: user-space file system in C
-- **[Panel](link)**: catalog app with a local-LLM extraction pipeline
-- **[Rebrickable Checklist](link)**: offline LEGO parts tracker
+## Featured Projects
 
-## Tech
-Python · C · C++ · Java · SQL · PyTorch · scikit-learn · Linux
+### [FUSE File System](https://github.com/RMLaumeyer/CS492-FS)
+User-space file system written in C using FUSE, featuring inode
+management, directory operations, hard links, symbolic links,
+access control, and Python tests.
 
-## Contact
-[LinkedIn](https://linkedin.com/in/robert-laumeyer)
+### Panel — Reading Catalog
+Reading catalog covering nearly 4,000 editions, with Python
+metadata enrichment pipelines and local LLM-powered validation.
+
+### [Rebrickable Checklist](https://github.com/RMLaumeyer/Rebrickable)
+Offline LEGO parts inventory application with Python data
+generation, metadata caching, filtering, and persistent progress.
+
+### [Wolves Daily Note](https://github.com/RMLaumeyer/Wolves)
+Windows automation that retrieves NBA news and standings,
+then creates daily Microsoft Sticky Notes.
+
+## Technologies
+
+**Languages:** Python, C, C++, Java, TypeScript, JavaScript, SQL
+
+**AI/ML:** PyTorch, scikit-learn, CUDA, local LLMs
+
+**Tools:** Git, Linux, Docker, Node.js, Windows Automation
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/robert-laumeyer/)
