@@ -1,7 +1,7 @@
 
 # Hi, I'm Robert 👋
 
-I'm a Computer Science student at Stevens Institute of Technology,
+I'm a Computer Science Major, with a Minor in Pure and Applied Mathematics at Stevens Institute of Technology,
 graduating May 2027, with interests in software engineering,
 systems programming, machine learning, and quantitative research.
 
